@@ -1,3 +1,3 @@
 # API Documentation
 
-::: sstc_apps
+::: sstc_calibrations
